@@ -1,3 +1,3 @@
 # Doceria
-Aplicativo de venda de uma doceria
+Aplicativo de cardápio de uma doceria
 // Projeto incompleto //
